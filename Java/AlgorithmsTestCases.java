@@ -14,7 +14,7 @@ import java.util.Random;
  * Created by Matthieu J.B Capuano on 10/25/2017.
  */
 
-public class AlgosTestCases {
+public class AlgorithmsTestCases {
     private static final int INTARRLENGTHS = 20;
     private Integer[] intMixed;
     private Integer[] intSorted;
@@ -59,7 +59,7 @@ public class AlgosTestCases {
     @Test(timeout = TIMEOUT)
     public void testBubbleSort() {
         System.out.println("BUBBLE UNSORTED: " + Arrays.toString(intMixed));
-        Algos.bubbleSort(intMixed, intComparator);
+        Algorithms.bubbleSort(intMixed, intComparator);
         System.out.println("BUBBLE SORTED:   " + Arrays.toString(intMixed) + "\n");
         assertArrayEquals(intSorted, intMixed);
         //assertTrue("Number of comparisons" + intComparator.getCount(), );
@@ -68,7 +68,7 @@ public class AlgosTestCases {
     @Test(timeout = TIMEOUT)
     public void testInsertionSort() {
         System.out.println("INSERTION UNSORTED: " + Arrays.toString(intMixed));
-        Algos.insertionSort(intMixed, intComparator);
+        Algorithms.insertionSort(intMixed, intComparator);
         System.out.println("INSERTION SORTED:   " + Arrays.toString(intMixed) + "\n");
         assertArrayEquals(intSorted, intMixed);
     }
@@ -76,7 +76,7 @@ public class AlgosTestCases {
     @Test(timeout = TIMEOUT)
     public void testSelectionSort() {
         System.out.println("SELECTION UNSORTED: " + Arrays.toString(intMixed));
-        Algos.selectionSort(intMixed, intComparator);
+        Algorithms.selectionSort(intMixed, intComparator);
         System.out.println("SELECTION SORTED:   " + Arrays.toString(intMixed) + "\n");
         assertArrayEquals(intSorted, intMixed);
     }
@@ -84,7 +84,7 @@ public class AlgosTestCases {
     @Test//(timeout = TIMEOUT)
     public void testMergeSort() {
         System.out.println("MERGE UNSORTED: " + Arrays.toString(intMixed));
-        Algos.mergeSort(intMixed, intComparator);
+        Algorithms.mergeSort(intMixed, intComparator);
         System.out.println("MERGE SORTED:   " + Arrays.toString(intMixed) + "\n");
         assertArrayEquals(intSorted, intMixed);
     }
@@ -92,7 +92,7 @@ public class AlgosTestCases {
     @Test//(timeout = TIMEOUT)
     public void testQuickSort() {
         System.out.println("QUICK UNSORTED: " + Arrays.toString(intMixed));
-        Algos.quickSort(intMixed, intComparator);
+        Algorithms.quickSort(intMixed, intComparator);
         System.out.println("QUICK SORTED:   " + Arrays.toString(intMixed) + "\n");
         assertArrayEquals(intSorted, intMixed);
     }

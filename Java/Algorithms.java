@@ -6,7 +6,7 @@ import java.util.Random;
  * This is my personal reference of all the sorting algorithms I have learned (except maybe radix)
  * in Java.
  */
-public class Algos {
+public class Algorithms {
     /* IN-PLACE ALGORITHMS: An in-place algorithm is one that does not copy the elements being sorted
                             into a new array/list/other structure during the sorting process. They are
                             "in-place" because the sorting takes place within the passed in structure.
