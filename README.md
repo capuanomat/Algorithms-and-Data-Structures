@@ -17,7 +17,7 @@ Under the Java directory you will find:
 - Notes and practice problems on Strings
 - Notes on Java Programming in general
 
-Under the Python directory you will find (Eventually):
+Under the Python directory you will find (TO BE ADDED):
 - DFS
 - BFS
 - Uniform Cost Search (UCS)
