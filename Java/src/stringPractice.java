@@ -2,8 +2,7 @@ import java.util.*;
 
 /**
  * Created by Matthieu J.B Capuano on 11/26/2017.
- * THIS DOCUMENT CONTAINS MY SOLUTIONS TO THE PROBLEMS LISTED BELOW, WHILE PRACTICING FOR A GOOGLE
- * CODING SAMPLE:
+ * This document contains my solutions to the problems at the following link, while practicing for a google coding sample:
  * http://www.java67.com/2014/03/how-to-find-duplicate-characters-in-String-Java-program.html
  */
 public class stringPractice {
