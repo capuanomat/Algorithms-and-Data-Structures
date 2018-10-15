@@ -23,3 +23,7 @@ Under the Python directory you will find (TO BE ADDED):
 - Uniform Cost Search (UCS)
 - Greedy Best First Search (GBFS)
 - A* (which is the same as Best First Search but *with* the admissibility requirement on heuristics)
+
+References for the future:
+https://stackoverflow.com/questions/6634816/set-time-and-speed-complexity.
+https://www.quora.com/What-is-the-difference-between-HashSet-HashMap-and-hash-table-How-do-they-behave-in-a-multi-threaded-environment
