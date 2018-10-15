@@ -22,6 +22,6 @@ public class StringsCodeAndNotes {
 
         char ch = 'A';
         int chno = (int) ch;
-        System.out.println("ch: %c, chno: %d, chHex: %x", ch, chno, chno);
+        System.out.println(System.out.format("ch: %c, chno: %d, chHex: %x", ch, chno, chno));
     }
 }

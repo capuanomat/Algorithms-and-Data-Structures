@@ -36,7 +36,7 @@ public class codeFightsArrays {
 
     /* PERSONAL ADDITIONAL CHALLENGE: What if entries in the array can also be zero? */
     // Then think about it from an Information Theoretic standpoint, you're representing a.length + 1 in a.length entried
-    int firstDuplicate(int[] a) {
+    int firstDuplicate2(int[] a) {
         for (int i = 0; i < a.length; i++) {
             int val = Math.abs(a[i]);
             if (a[val-1] < 0) {
