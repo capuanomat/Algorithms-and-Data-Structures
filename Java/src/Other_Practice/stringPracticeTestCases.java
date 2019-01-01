@@ -1,3 +1,5 @@
+package Other_Practice;
+
 import org.junit.Before;
 import org.junit.Test;
 

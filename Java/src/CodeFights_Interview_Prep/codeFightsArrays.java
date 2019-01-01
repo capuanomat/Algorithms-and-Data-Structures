@@ -1,4 +1,4 @@
-package CodeFightsInterview;
+package CodeFights_Interview_Prep;
 
 import java.util.Arrays;
 
