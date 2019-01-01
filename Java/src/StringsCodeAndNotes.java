@@ -1,7 +1,12 @@
 
 public class StringsCodeAndNotes {
     public static void main(String[] args) {
-
+        
+        /* Useful ASCII table (with extended ASCII table):
+           https://www.garykessler.net/library/ascii.html
+        */
+        
+        
         /* Watch the following videos on ASCII vs. Unicode:
             -> https://www.youtube.com/watch?v=Xu86LrEyhKc
             -> https://www.youtube.com/watch?v=XHrdHfkccwE
