@@ -19,11 +19,21 @@ public class codeFightsTreesBasic {
 
     /**
      * PROBLEM: hasPathWithGivenSum
+     *
+     * NOTE: None
+     *
      * DESCRIPTION: Given a binary tree t and an integer s, determine whether there is a root to
      *              leaf path in t such that the sum of vertex values equals s.
-     * @param t
-     * @param s
-     * @return
+     *
+     * EXAMPLES: For ...
+     *
+     *
+     * INPUT/OUTPUT:
+     *
+     */
+
+    /**
+     * MY SOLUTION
      */
     boolean hasPathWithGivenSum(Tree<Integer> t, int s) {
         if (t == null) {
@@ -45,13 +55,20 @@ public class codeFightsTreesBasic {
         return (hasSum(t.left, s, sum) || hasSum(t.right, s, sum));
     }
 
+
+
     /**
      * PROBLEM: isTreeSymmetric
+     *
      * DESCRIPTION: Given a binary tree t, determine whether it is symmetric around its center,
      *              i.e. each side mirrors the other.
-     * @param t
-     * @return
+     *
+     * EXAMPLES:
+     *
+     * INPUT/OUTPUT:
      */
+
+    /* MY SOLUTION */
     boolean isTreeSymmetric(Tree<Integer> t) {
         if (t == null) { return true; }
 
@@ -65,6 +82,8 @@ public class codeFightsTreesBasic {
 
         return (helper(t1.left, t2.right) && helper(t1.right, t2.left));
     }
+
+
 
     /**
      * PROBLEM: kthSmallestInBST
@@ -108,6 +127,8 @@ public class codeFightsTreesBasic {
             inorder(curr.right);
         }
     }
+
+
 
 
     /**
