@@ -2,601 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="901f80b4-968e-4ba2-9d0d-1636667679f7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Algorithms.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/AlgorithmsTestCases.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/OtherPracticeQuestions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsArrays.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsCommonTechniquesBasic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsDFSBFS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsHashTables.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsLinkedLists.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsStrings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/CodeFights Interview Prep/codeFightsTreesBasic.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Big O/Example_16/Example.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Big O/QVI_11_Print_Sorted_Strings/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_01_Is_Unique/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_01_Is_Unique/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_01_Is_Unique/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_02_Check_Permutation/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_02_Check_Permutation/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_03_URLify/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_04_Palindrome_Permutation/Common.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_04_Palindrome_Permutation/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_04_Palindrome_Permutation/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_04_Palindrome_Permutation/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_04_Palindrome_Permutation/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_05_One_Away/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_05_One_Away/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_05_One_Away/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_06_String_Compression/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_06_String_Compression/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_06_String_Compression/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_06_String_Compression/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_07_Rotate_Matrix/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_08_Zero_Matrix/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_08_Zero_Matrix/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_08_Zero_Matrix/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 01. Arrays and Strings/Q1_09_String_Rotation/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_01_Remove_Dups/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_01_Remove_Dups/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_01_Remove_Dups/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_01_Remove_Dups/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_02_Return_Kth_To_Last/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_02_Return_Kth_To_Last/QuestionB.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_02_Return_Kth_To_Last/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_02_Return_Kth_To_Last/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_02_Return_Kth_To_Last/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_03_Delete_Middle_Node/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_04_Partition/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_04_Partition/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_04_Partition/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_04_Partition/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_05_Sum_Lists/PartialSum.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_05_Sum_Lists/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_05_Sum_Lists/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_06_Palindrome/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_06_Palindrome/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_06_Palindrome/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_06_Palindrome/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_07_Intersection/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 02. Linked Lists/Q2_08_Loop_Detection/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Introduction/MyQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Introduction/MyStack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Introduction/QueueTester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Introduction/StackTester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_01_Three_in_One/FixedMultiStack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_01_Three_in_One/FullStackException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_01_Three_in_One/MultiStack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_01_Three_in_One/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_01_Three_in_One/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_02_Stack_Min/NodeWithMin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_02_Stack_Min/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_02_Stack_Min/StackWithMin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_02_Stack_Min/StackWithMin2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_03_Stack_of_Plates/Node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_03_Stack_of_Plates/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_03_Stack_of_Plates/SetOfStacks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_03_Stack_of_Plates/Stack.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_04_Queue_via_Stacks/MyQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_04_Queue_via_Stacks/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_05_Sort_Stack/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_06_Animal_Shelter/Animal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_06_Animal_Shelter/AnimalQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_06_Animal_Shelter/Cat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_06_Animal_Shelter/Dog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 03. Stacks and Queues/Q3_06_Animal_Shelter/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Introduction/Traversals.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_01_Route_Between_Nodes/Graph.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_01_Route_Between_Nodes/Node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_01_Route_Between_Nodes/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_02_Minimal_Tree/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_03_List_of_Depths/QuestionBFS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_03_List_of_Depths/QuestionDFS.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_04_Check_Balanced/QuestionBrute.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_04_Check_Balanced/QuestionImproved.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_05_Validate_BST/IntWrapper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_05_Validate_BST/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_05_Validate_BST/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_06_Successor/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_07_Build_Order/DFS/Graph.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_07_Build_Order/DFS/Project.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_07_Build_Order/DFS/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_07_Build_Order/EdgeRemoval/Graph.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_07_Build_Order/EdgeRemoval/Project.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_07_Build_Order/EdgeRemoval/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionE.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionEBad.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/QuestionF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_08_First_Common_Ancestor/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_09_BST_Sequences/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_10_Check_Subtree/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_10_Check_Subtree/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_11_Random_Node/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_11_Random_Node/Tree.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_11_Random_Node/TreeNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_12_Paths_with_Sum/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_12_Paths_with_Sum/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 04. Trees and Graphs/Q4_12_Paths_with_Sum/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_01_Insertion/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_02_Binary_to_String/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_03_Flip_Bit_to_Win/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_03_Flip_Bit_to_Win/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_03_Flip_Bit_to_Win/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_03_Flip_Bit_to_Win/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_03_Flip_Bit_to_Win/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_04_Next_Number/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_04_Next_Number/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_04_Next_Number/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_04_Next_Number/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_06_Conversion/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_06_Conversion/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_06_Conversion/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_07_Pairwise_Swap/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Q5_08_Draw_Line/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Question5_7.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Sample_Code/RightShifts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 05. Bit Manipulation/Sample_Code/Sample_Code.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Introduction/PrimeNumbers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Introduction/SieveOfEratosthenes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_05_Egg_Drop/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_07_The_Apocalypse/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_10_Test_Strips/Bottle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_10_Test_Strips/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_10_Test_Strips/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_10_Test_Strips/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 06. Math and Logic Puzzles/Q6_10_Test_Strips/TestStrip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/BlackJackCard.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/BlackJackGameAutomator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/BlackJackHand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/Card.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/Deck.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/Hand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_01_Deck_of_Cards/Suit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Call.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/CallHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Caller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Director.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Manager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Rank.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Respondent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_02_Call_Center/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/CD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/CDPlayer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/JukeBox.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/Playlist.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/Song.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/SongSelector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_03_Jukebox/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/Bus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/Car.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/Level.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/Motorcycle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/ParkingLot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/ParkingSpot.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/Vehicle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_04_Parking_Lot/VehicleSize.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_05_Online_Book_Reader/Book.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_05_Online_Book_Reader/Display.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_05_Online_Book_Reader/Library.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_05_Online_Book_Reader/OnlineReaderSystem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_05_Online_Book_Reader/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_05_Online_Book_Reader/UserManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_06_Jigsaw/Edge.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_06_Jigsaw/Orientation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_06_Jigsaw/Piece.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_06_Jigsaw/Puzzle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_06_Jigsaw/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_06_Jigsaw/Shape.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/AddRequest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/Conversation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/GroupChat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/Message.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/PrivateChat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/RequestStatus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/System.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/UserManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/UserStatus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_07_Chat_Server/UserStatusType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Automator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Board.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Color.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Direction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Game.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Location.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Piece.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Player.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_08_Othello/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_09_Circular_Array/CircularArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_09_Circular_Array/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_10_Minesweeper/Board.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_10_Minesweeper/Cell.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_10_Minesweeper/Game.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_10_Minesweeper/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_10_Minesweeper/UserPlay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_10_Minesweeper/UserPlayResult.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_11_File_System/Directory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_11_File_System/Entry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_11_File_System/File.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_11_File_System/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_12_Hash_Table/Dummy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_12_Hash_Table/Hasher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 07. Object-Oriented Design/Q7_12_Hash_Table/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Introduction/FibonacciA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Introduction/FibonacciB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Introduction/FibonacciC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Introduction/FibonacciD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_01_Triple_Step/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_01_Triple_Step/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_01_Triple_Step/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_02_Robot_in_a_Grid/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_02_Robot_in_a_Grid/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_02_Robot_in_a_Grid/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_02_Robot_in_a_Grid/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_03_Magic_Index/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_03_Magic_Index/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_04_Power_Set/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_04_Power_Set/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_05_Recursive_Multiply/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_05_Recursive_Multiply/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_05_Recursive_Multiply/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_05_Recursive_Multiply/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_05_Recursive_Multiply/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_06_Towers_of_Hanoi/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_06_Towers_of_Hanoi/Tower.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_07_Permutations_Without_Dups/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_07_Permutations_Without_Dups/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_07_Permutations_Without_Dups/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_08_Permutations_With_Dups/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_09_Parens/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_09_Parens/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_10_Paint_Fill/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_11_Coins/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_11_Coins/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_11_Coins/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_12_Eight_Queens/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_13_Stack_of_Boxes/Box.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_13_Stack_of_Boxes/BoxComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_13_Stack_of_Boxes/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_13_Stack_of_Boxes/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_13_Stack_of_Boxes/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_13_Stack_of_Boxes/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_14_Boolean_Evaluation/Others.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_14_Boolean_Evaluation/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_14_Boolean_Evaluation/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_14_Boolean_Evaluation/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 08. Recursion and Dynamic Programming/Q8_14_Boolean_Evaluation/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/BFSData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/Machine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/PathNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/Server.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_02_Social_Network/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_05_Cache/Cache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_05_Cache/Node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 09. Scalability and Memory Limits/Q9_05_Cache/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Introduction/BinarySearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Introduction/MergeSort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Introduction/Quicksort.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_01_Sorted_Merge/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_02_Group_Anagrams/AnagramComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_02_Group_Anagrams/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_02_Group_Anagrams/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_03_Search_in_Rotated_Array/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_04_Sorted_Search_No_Size/Arrayish/Listy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_04_Sorted_Search_No_Size/Arrayish/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_05_Sparse_Search/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_05_Sparse_Search/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_07_Missing_Int/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_07_Missing_Int/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_07_Missing_Int/input.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_08_Find_Duplicates/BitSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_08_Find_Duplicates/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_09_Sorted_Matrix_Search/Coordinate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_09_Sorted_Matrix_Search/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_09_Sorted_Matrix_Search/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_10_Rank_from_Stream/IntComparable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_10_Rank_from_Stream/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_10_Rank_from_Stream/RankNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_11_Peaks_and_Valleys/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_11_Peaks_and_Valleys/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_11_Peaks_and_Valleys/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 10. Sorting and Searching/Q10_11_Peaks_and_Valleys/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/Ambiguous.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/Circle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/Introduction.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/IntroductionCollections.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/IntroductionOverriding.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/Shape.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Introduction/Square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_01_Private_Constructor/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_05_TreeMap_HashMap_LinkedHashMap/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_06_Object_Reflection/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_06_Object_Reflection/Rectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_07_Lambda_Expressions/Country.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_07_Lambda_Expressions/Question.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_07_Lambda_Expressions/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_07_Lambda_Expressions/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_07_Lambda_Expressions/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_07_Lambda_Expressions/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_08_Lambda_Random/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_08_Lambda_Random/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 13. Java/Q13_08_Lambda_Random/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionA/ExampleA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionA/RunnableThreadExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionB/ExampleB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionB/ThreadExample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionLocks/Intro.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionLocks/LockedATM.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionLocks/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionLocks/NoLockATM.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionSynchronization/Intro.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionSynchronization/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionSynchronization/MyObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionSynchronizedBlocks/Intro.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionSynchronizedBlocks/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionSynchronizedBlocks/MyObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionWaitNotify/Intro.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionWaitNotify/MyClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/IntroductionWaitNotify/MyObject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_03_Dining_Philosophers/QuestionA/Chopstick.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_03_Dining_Philosophers/QuestionA/Philosopher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_03_Dining_Philosophers/QuestionA/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_03_Dining_Philosophers/QuestionB/Chopstick.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_03_Dining_Philosophers/QuestionB/Philosopher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_03_Dining_Philosophers/QuestionB/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_04_Deadlock_Free_Class/LockFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_04_Deadlock_Free_Class/LockNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_04_Deadlock_Free_Class/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_05_Call_In_Order/Foo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_05_Call_In_Order/FooBad.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_05_Call_In_Order/MyThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_05_Call_In_Order/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_06_Synchronized_Methods/Foo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_06_Synchronized_Methods/MyThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_06_Synchronized_Methods/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_07_FizzBuzz/FBThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_07_FizzBuzz/FizzBuzzThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_07_FizzBuzz/NumberThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_07_FizzBuzz/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_07_FizzBuzz/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 15. Threads and Locks/Q15_07_FizzBuzz/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_01_Number_Swapper/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_02_Word_Frequencies/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_02_Word_Frequencies/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_03_Intersection/Line.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_03_Intersection/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_03_Intersection/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/Piece.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/Position.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/PositionIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionE.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionF.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionG.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/QuestionH.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_04_Tic_Tac_Win/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_05_Factorial_Zeros/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_05_Factorial_Zeros/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_06_Smallest_Difference/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_06_Smallest_Difference/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_06_Smallest_Difference/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_07_Number_Max/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_08_English_Int/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_09_Operations/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_10_Living_People/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_10_Living_People/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_10_Living_People/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_10_Living_People/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_10_Living_People/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_10_Living_People/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_11_Diving_Board/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_11_Diving_Board/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_11_Diving_Board/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_11_Diving_Board/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_12_XML_Encoding/Attribute.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_12_XML_Encoding/Element.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_12_XML_Encoding/QuestionOO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_12_XML_Encoding/QuestionString.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_13_Bisect_Squares/Line.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_13_Bisect_Squares/Point.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_13_Bisect_Squares/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_13_Bisect_Squares/Square Cut Tester - Q16_13.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_13_Bisect_Squares/Square.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_14_Best_Line/GraphPoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_14_Best_Line/Line.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_14_Best_Line/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_15_Master_Mind/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_16_Sub_Sort/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_17_Contiguous_Sequence/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_18_Pattern_Matcher/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_18_Pattern_Matcher/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_18_Pattern_Matcher/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_18_Pattern_Matcher/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_18_Pattern_Matcher/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_19_Pond_Sizes/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_19_Pond_Sizes/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_20_T9/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_20_T9/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_20_T9/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_21_Sum_Swap/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_21_Sum_Swap/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_21_Sum_Swap/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_21_Sum_Swap/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_21_Sum_Swap/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_22_Langtons_Ant/Ant.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_22_Langtons_Ant/Board.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_22_Langtons_Ant/Grid.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_22_Langtons_Ant/Orientation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_22_Langtons_Ant/Position.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_22_Langtons_Ant/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_23_Rand7_From_Rand5/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_23_Rand7_From_Rand5/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_24_Pairs_With_Sum/Pair.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_24_Pairs_With_Sum/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_24_Pairs_With_Sum/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_24_Pairs_With_Sum/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_24_Pairs_With_Sum/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_25_LRU_Cache/Cache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_25_LRU_Cache/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_26_Calculator/Operator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_26_Calculator/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_26_Calculator/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 16. Moderate/Q16_26_Calculator/Term.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_01_Add_Without_Plus/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_01_Add_Without_Plus/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_01_Add_Without_Plus/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_02_Shuffle/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_03_Random_Set/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_03_Random_Set/QuestionAlternate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_04_Missing_Number/BitInteger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_04_Missing_Number/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_05_Letters_and_Numbers/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_05_Letters_and_Numbers/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_05_Letters_and_Numbers/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_06_Count_of_2s/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_06_Count_of_2s/QuestionBrute.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_07_Baby_Names/Graph.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_07_Baby_Names/GraphNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_07_Baby_Names/NameSet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_07_Baby_Names/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_07_Baby_Names/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_08_Circus_Tower/HtWt.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_08_Circus_Tower/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_08_Circus_Tower/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_08_Circus_Tower/QuestionOld.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_08_Circus_Tower/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_09_Kth_Multiple/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_09_Kth_Multiple/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_09_Kth_Multiple/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_10_Majority_Element/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_10_Majority_Element/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_11_Word_Distance/LocationPair.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_11_Word_Distance/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_11_Word_Distance/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_11_Word_Distance/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_12_BiNode/BiNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_12_BiNode/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_12_BiNode/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_12_BiNode/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_13_ReSpace/ParseResult.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_13_ReSpace/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_13_ReSpace/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_14_Smallest_K/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_14_Smallest_K/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_14_Smallest_K/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_14_Smallest_K/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_14_Smallest_K/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_15_Longest_Word/LengthComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_15_Longest_Word/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_16_The_Masseuse/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_16_The_Masseuse/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_16_The_Masseuse/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_16_The_Masseuse/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_16_The_Masseuse/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_17_Multi_Search/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_17_Multi_Search/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_17_Multi_Search/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_17_Multi_Search/Trie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_17_Multi_Search/TrieNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/HeapNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/QuestionD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/Range.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_18_Shortest_Supersequence/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_19_Missing_Two/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_19_Missing_Two/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_19_Missing_Two/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_20_Continuous_Median/MaxHeapComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_20_Continuous_Median/MinHeapComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_20_Continuous_Median/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_21_Volume_of_Histogram/HistogramData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_21_Volume_of_Histogram/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_21_Volume_of_Histogram/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_21_Volume_of_Histogram/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_21_Volume_of_Histogram/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_22_Word_Transformer/BFSData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_22_Word_Transformer/PathNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_22_Word_Transformer/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_22_Word_Transformer/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_22_Word_Transformer/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_22_Word_Transformer/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_23_Max_Black_Square/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_23_Max_Black_Square/QuestionEff.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_23_Max_Black_Square/SquareCell.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_23_Max_Black_Square/Subsquare.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_24_Max_Submatrix/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_24_Max_Submatrix/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_24_Max_Submatrix/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_24_Max_Submatrix/Range.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_24_Max_Submatrix/SubMatrix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_24_Max_Submatrix/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_25_Word_Rectangle/Question.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_25_Word_Rectangle/Rectangle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_25_Word_Rectangle/WordGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_26_Sparse_Similarity/DocPair.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_26_Sparse_Similarity/Document.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_26_Sparse_Similarity/QuestionA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_26_Sparse_Similarity/QuestionB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_26_Sparse_Similarity/QuestionC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Ch 17. Hard/Q17_26_Sparse_Similarity/Tester.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/AssortedMethods.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/BTreePrinter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/BitVector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/HashMapList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/LinkedListNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/TreeNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/Trie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/CtCILibrary/CtCILibrary/TrieNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_01.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_02.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_03.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_04.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_05.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_06.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_07.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_08.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_09.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_14.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_15.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_16.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_17.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_18.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_19.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Ex_20.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_01.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_02.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_03.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_04.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_05.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_06.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_09.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/Big_O/Q_12.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/CompareBinaryToHex/CompareBinaryToHex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Cracking the Coding Interview/Official Solutions/Java/Introduction/SwapMinMax/SwapMinMax.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Java Data Structure Libraries/ArrayLists.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/Notes.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/stringPractice.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Java/src/stringPracticeTestCases.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Internship Study Plan.docx" afterPath="$PROJECT_DIR$/Internship Study Plan.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsArrays.java" afterPath="$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsArrays.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsHashTables.java" afterPath="$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsHashTables.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/src/Cracking_The_Coding_Interview/My_Solutions/Ch1ArraysAndStrings.java" afterPath="$PROJECT_DIR$/Java/src/Cracking_The_Coding_Interview/My_Solutions/Ch1ArraysAndStrings.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/src/Notes.java" afterPath="$PROJECT_DIR$/Java/src/Notes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java/src/StringsCodeAndNotes.java" afterPath="$PROJECT_DIR$/Java/src/StringsCodeAndNotes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -605,6 +17,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithms-and-Data-Structures" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -624,6 +43,12 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -656,15 +81,83 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Algorithms-and-Data-Structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodeFights_Interview_Prep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../10. Spring 2019/CS 4803 (DL) - Deep Learning/Homeworks/assignment" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -677,88 +170,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -773,35 +184,46 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23891892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -810,6 +232,63 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsTreesBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsHashTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsTreesBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsHeapsStacksQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5134">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/CodeFights_Interview_Prep/codeFightsHashTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

@@ -29,4 +29,28 @@ public class StringsCodeAndNotes {
         int chno = (int) ch;
         System.out.println(System.out.format("ch: %c, chno: %d, chHex: %x", ch, chno, chno));
     }
+
+    // Cast a string to a char array with:
+    // char[] str_as_array = str.toCharArray()
+
+
+    /** ===== STRINGBUILDER ----- **/
+    // In CtCI, VII, Chapter 1,  they show that this is pretty much a brute force way of concatenating a list of strings.
+    // It has runtime O(x(n^2)), check the Data Structures and Algorithm Notes for why
+    String joinWords(String[] words) {
+        String sentence = "";
+        for (String w : words) {
+            sentence = sentence + w;
+        }
+        return sentence;
+    }
+
+    // A Stringbuilder is much more efficient
+    String joinWords(String[] words) {
+        StringBuilder sentence = new StringBuilder();
+        for (String w : words) {
+            sentence.append(w);
+        }
+        return sentence.toString();
+    }
 }

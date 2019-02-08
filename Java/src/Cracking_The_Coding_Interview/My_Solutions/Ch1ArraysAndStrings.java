@@ -30,29 +30,32 @@ public class Ch1ArraysAndStrings {
     /**
      * QUESTION 1.1: isUnique
      *
-     * DESCRIPTION: Implement an algorithm to determine if a string has all unique characters. What if you cannot use an additional
-     *              data structure?
+     * DESCRIPTION: Implement an algorithm to determine if a string has all unique characters. What if you
+     *              cannot use an additional data structure?
      *
-     * HINTS: ...
-     *        ...
-     *        ...
-     *
+     * HINTS: #44  ...
+     *        #117 ...
+     *        #132 ...
+     */
+
+    /**
      * SOLUTION: Time O(n), Space O(1)
+     * -> NOTE: MY SOLUTION WAS VERY SIMILAR TO THE GIVEN ONE, so I just include mine only
      * - First thing to ask is if the string is given as an ASCII string or a Unicode string
      * - We assume that it is ASCII (if not we need more storage size) and CLARIFY THAT ASSUMPTION
-     * - Since Java chars use 7 bits, that's 128 possible difference characters, so if the string is longer than that
-     *   you know that it has duplicates.
+     * - You could have an array of boolean values, where the flag at index i indicates whether character
+     *   i in the alphabet is contained in the string. Return false the second time you see a character.
+     * - Since Java chars use 7 bits, that's 128 possible difference characters, so if the string is longer than
+     *   that you know that it has duplicates.
      *   -> You could also assume 256 for extended ASCII, CLARIFY THAT WITH THE INTERVIEWER
      *
-     * NOTE: You could argue that the time complexity of the code is O(1) since the loop only iterates
-     *       through 128 characters.
+     * NOTE: You could argue that the time complexity of the code is O(1) since the loop will never
+     *       iterate through more than 128 characters (if it does there are duplicates).
      * @param str   Input string to check for uniqueness
      * @return      Whether the input string has all unique characters
      */
     private static boolean isUnique(String str) {
-        if (str.length() > 128) {
-            return false;
-        }
+        if (str.length() > 128) return false;
 
         boolean[] seen = new boolean[128];
         for (char c : str.toCharArray()) {
@@ -66,11 +69,8 @@ public class Ch1ArraysAndStrings {
     }
 
     /**
-     * QUESTION 1.1 (SOLUTION 2): isUnique
-     *
-     * DESCRIPTION: Same as above.
-     *
-     * SOLUTION: "If you use a bit vector, you can reduce your space usage by a factor of eight."
+     * SOLUTION 2:
+     * "If you use a bit vector, you can reduce your space usage by a factor of eight."
      * Note that THIS IS ASSUMING ONLY LOWERCASE LETTERS 'a' through 'z'.
      *
      * I actually still don't fully understand this solution but I think some intuition might be:
@@ -97,11 +97,9 @@ public class Ch1ArraysAndStrings {
     }
 
     /**
-     * QUESTION 1.1 (SOLUTION 3): isUnique
+     * SOLUTION 3: If you can't use additional data structures
      *
-     * DESCRIPTION: Same as above but you can't use an extra data structure.
-     *
-     * SOLUTION: You could either
+     * You could either
      * 1. Compare every character to every other character O(n^2)
      * 2. Sort the string in O(n log(n)) and linearly check the string for neighboring characters that are similar
      *    --> But many sorting algorithms take extra space
@@ -112,6 +110,74 @@ public class Ch1ArraysAndStrings {
         // NOT IMPLEMENTED
         return false;
     }
+
+
+
+
+    /**
+     * QUESTION 1.2: Check Permutation (READ THROUGH, DIDN'T COMPLETE)
+     *
+     * DESCRIPTION: Given two strings, write a method to decide if one is a permutation of the other
+     *
+     * HINTS: #1, #84, #122, #131
+     */
+
+    /** MY SOLUTION:
+     * ...
+     *
+     */
+
+    /**
+     * OFFICIAL SOLUTION 1: Sort the Strings
+     * -> You should first understand if the permutation comparison is case sensitive: is God a permutation dog?
+     * -> We should ask if whitespace is significant...
+     *
+     * -> First note that strings of different lengths cannot be permutations of each other
+     *
+     *
+     * OFFICIAL SOLUTION 2: Check if the two strings have identical character counts
+     * -> ...
+     * -> They only iterate through each string once, and don't iterate through the arrays after... I'll let
+     *    you figure out how ;)
+     *
+     * -> Answer: increment array during first iteration, decrement during the next and check if <0
+     */
+
+
+
+
+
+    /**
+     * QUESTION 1.3: URLify READ THROUGH, DIDN'T COMPLETE)
+     *
+     * DESCRIPTION:
+     *
+     * HINTS: #53, #118
+     */
+
+
+
+
+
+
+    /**
+     * QUESTION 1.4: Palindrome Permutation (READ THROUGH, DIDN'T COMPLETE)
+     *
+     * DESCRIPTION: Given a string, write a function to check if it is a permutation of a palindrome. A
+     *              palindrome is a word or phrase that is the same forwards and backwards. A permutation is
+     *              a rearrangement of letters. The palindrome does not need to be limited to just dictionary
+     *              words.
+     *
+     * EXAMPLE:
+     *          Input: Tact Coa
+     *          Output: True (permutations: "taco cat", "atco cta", etc.)
+     *
+     * HINTS: #106, #121, #134, #136
+     */
+
+
+
+
 
     /**
      * QUESTION 1.5: One Away
@@ -130,7 +196,10 @@ public class Ch1ArraysAndStrings {
      *        ...
      *        ...
      *
-     * SOLUTION: This is my personal solution, and it turns out to be very similar to the official
+     */
+
+    /**
+     * MY SOLUTION: This is my personal solution, and it turns out to be very similar to the official
      *           solution somehow. I prefer mine though.
      *
      * NOTE: I also return true if the strings are the same, they don't specify what you should actually
@@ -163,4 +232,12 @@ public class Ch1ArraysAndStrings {
         }
         return true;
     }
+
+    /**
+     * QUESTION 1.6-1.9: ...
+     *
+     * DESCRIPTION:
+     *
+     * HINTS:
+     */
 }

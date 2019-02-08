@@ -10,6 +10,7 @@ public class codeFightsHashTables {
 
     /**
      * PROBLEM: groupingDishes
+     *
      * DESCRIPTION: You have a list of dishes. Each dish is associated with a list of ingredients
      *              used to prepare it. You want to group the dishes by ingredients, so that for
      *              each ingredient you'll be able to find all the dishes that contain it (if there
@@ -19,9 +20,15 @@ public class codeFightsHashTables {
      *              dishes that contain this ingredient. The dishes inside each list should be
      *              sorted lexicographically. The result array should be sorted lexicographically
      *              by the names of the ingredients in its elements.
-     * @param dishes
-     * @return
+     *
      * THIS IS AN IMPORTANT EXAMPLE
+     *
+     * IMPORTANT LESSONS:
+     * -> TreeMaps store entries in an ordered way (you can use comparator)
+     * -> You can sort an ArrayList using Collections.sort()
+     * -> Iterate through the entries in a HashMap with (replace Key_Type and Value_Type with actual types):
+     *      Map.Entry<Key_Type, Value_Type> entry : map.entrySet()
+     * -> Cast an ArrayList of Strings to an array of strings with arrlist.toArray(new String[0])
      */
     String[][] groupingDishes(String[][] dishes) {
         Map<String, ArrayList<String>> map = new TreeMap();
