@@ -27,3 +27,7 @@ Under the Python directory you will find (TO BE ADDED):
 References for the future:
 https://stackoverflow.com/questions/6634816/set-time-and-speed-complexity.
 https://www.quora.com/What-is-the-difference-between-HashSet-HashMap-and-hash-table-How-do-they-behave-in-a-multi-threaded-environment
+
+Google Mission Statement: "To organize the world's information and make it universally accessible and useful."
+Amazon Mission Statement: "To be earth's most customer-centric company; to build a place where people can come to find and discover anything they might want to buy online."
+Microsoft Mission Statement: "To empower every person and every organization on the planet to achieve more."

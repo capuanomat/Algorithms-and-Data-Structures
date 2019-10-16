@@ -110,7 +110,7 @@ public class Algorithms {
         }
     }
 
-    // NOTE: The arrays above are iterative, Merge sort and Quick sort below are recursive.
+    // NOTE: The sorting algorithms above are iterative, Merge sort and Quick sort below are recursive.
 
     /**
      * MERGE SORT:  OUT-of-place. Stable.
