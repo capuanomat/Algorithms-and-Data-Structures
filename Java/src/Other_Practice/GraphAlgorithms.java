@@ -23,6 +23,18 @@ class GraphAlgorithms {
                                   Works with negative edge weights
 
             A*: Uniform Cost Search with a heuristic
+            
+            Hybrid A*:
+            https://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html
+            
+            Theta*:
+            https://en.wikipedia.org/wiki/Theta*
+            
+            Other Path Plannig:
+            https://www.sciencedirect.com/science/article/pii/S2214914718300333
+            https://www.cc.gatech.edu/~dellaert/pub/Ok13icra.pdf
+            http://www.cs.cmu.edu/~jgonzale/Thesis_Proposal/Thesis_proposal_v2.09.pdf
+            
 
      */
 
