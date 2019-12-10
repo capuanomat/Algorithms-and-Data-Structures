@@ -10,9 +10,12 @@ public class codeFightsLinkedLists {
 
     /**
      * PROBLEM: removeKFromList
+     *
      * NOTE: O(n) time, O(1) space
+     *
      * DESCRIPTION: Given a singly linked list of integers l and an integer k, remove all elements
      *              from list l that have a value equal to k.
+     *
      * EXAMPLES: ...
      * @param l
      * @param k
@@ -48,9 +51,12 @@ public class codeFightsLinkedLists {
 
     /**
      * PROBLEM: isListPalindrome
+     *
      * NOTE: O(n) time, O(1) space
+     *
      * DESCRIPTION: Given a singly linked list of integers, determine whether or not it's a
      *              palindrome.
+     *
      * EXAMPLES: ...
      * @param l
      * @return

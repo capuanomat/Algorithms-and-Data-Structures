@@ -35,7 +35,7 @@ public class stringPractice {
 
     /******************************** PROBLEM 2 ********************************/
     /**
-     * PROBLEM: Check if two strings are annagrams of each other.
+     * PROBLEM: Check if two strings are anagrams of each other.
      * @param str1
      * @param str2
      * @return

@@ -25,8 +25,47 @@ public class codeFightsTreesBasic {
      * DESCRIPTION: Given a binary tree t and an integer s, determine whether there is a root to
      *              leaf path in t such that the sum of vertex values equals s.
      *
-     * EXAMPLES: For ...
-     *
+     * EXAMPLES: For
+     *              t = {
+     *                  "value": 4,
+     *                  "left": {
+     *                      "value": 1,
+     *                      "left": {
+     *                          "value": -2,
+     *                          "left": null,
+     *                          "right": {
+     *                              "value": 3,
+     *                              "left": null,
+     *                              "right": null
+     *                          }
+     *                      },
+     *                      "right": null
+     *                  },
+     *                  "right": {
+     *                      "value": 3,
+     *                      "left": {
+     *                          "value": 1,
+     *                          "left": null,
+     *                          "right": null
+     *                      },
+     *                      "right": {
+     *                          "value": 2,
+     *                          "left": {
+     *                              "value": -2,
+     *                              "left": null,
+     *                              "right": null
+     *                          },
+     *                          "right": {
+     *                              "value": -3,
+     *                              "left": null,
+     *                              "right": null
+     *                          }
+     *                      }
+     *                  }
+     *              }
+     *          and s = 7, the output should be hasPathWithGivenSum(t, s) = true
+     *          The tree looks like:
+     *          ...
      *
      * INPUT/OUTPUT:
      *
@@ -81,6 +120,86 @@ public class codeFightsTreesBasic {
         if (!(t1.value.equals(t2.value))) return false;
 
         return (helper(t1.left, t2.right) && helper(t1.right, t2.left));
+    }
+
+
+    /**
+     * PROBLEM: findProfession
+     *
+     * DESCRIPTION: Consider a special family of Engineers and Doctors.
+     *              This family has the following rules:
+     *              - Everybody has two children.
+     *              - The first child of an Engineer is an Engineer and the second child is a Doctor.
+     *              - The first child of a Doctor is a Doctor and the second child is an Engineer.
+     *              - All generations of Doctors and Engineers start with an Engineer.
+     *              We can represent the situation using this diagram:
+     *                                               E
+     *                                          /         \
+     *                                         E           D
+     *                                       /   \        /  \
+     *                                      E     D      D    E
+     *                                    / \   / \    / \   / \
+     *                                  E   D D   E  D   E E   D
+     *              Given the level and position of a person in the ancestor tree above,
+     *              find the profession of the person.
+     *              Note: in this tree first child is considered as left child, second - as right.
+     * EXAMPLES: For level = 3 and pos = 3, the output should be findProfession(level, pos) = "Doctor".
+     *
+     * INPUT/OUTPUT:
+     *
+     *
+     * HINT (From me): There is a patter in the tree.
+     * HINT 2        : The pattern is from layer to layer.
+     *
+     * IDEA: Every level is, on the left half, the same as the above layer, and on the right half,
+     *       the opposite of the above layer.
+     */
+    /* MY SOLUTION */
+    String findProfession(int level, int pos) {
+
+        if (level == 1)
+            return "Engineer";
+
+        if (level == 2){
+            if (pos == 1)
+                return "Engineer";
+            return "Doctor";
+        }
+
+        int numNodes = (int) Math.pow(2, level -1 );
+        int halfway = numNodes / 2;
+
+        boolean inverse = false;
+        if (pos > halfway) {
+            // Second half
+            String ans = findProfession(level - 1, pos - halfway);
+            if (ans == "Engineer")
+                return "Doctor";
+            return "Engineer";
+        } else {
+            // First Half
+            return findProfession(level - 1, pos);
+        }
+    }
+
+    /* A SOLUTION */
+    String findProfession2(int level, int pos) {
+
+        int init = (int) Math.pow(2, level);
+        boolean eng = true;
+        while (init != 2) {
+            init = init/2;
+            if (init < pos) {
+                eng = !eng;
+                pos -= init;
+            }
+        }
+
+        if (init <= pos) {
+            eng = !eng;
+        }
+
+        return (eng) ? "Engineer" : "Doctor";
     }
 
 
