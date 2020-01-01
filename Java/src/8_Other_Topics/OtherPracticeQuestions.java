@@ -1,4 +1,4 @@
-package CodeFightsInterview;
+package 8_Other_Topics;
 
 /**
  * Created by Matthieu J.B Capuano on 11/27/2017.

@@ -8,6 +8,12 @@ import java.util.Set;
  */
 public class Notes {
 
+    /*
+    How to know when to make a function static: "'does it make sense to call this method, even if no Obj has been
+    constructed yet?' If so, it should definitely be static."
+    https://stackoverflow.com/questions/2671496/java-when-to-use-static-methods
+     */
+
     /** IF YOU EVER NEED TO READ INPUT THAT'S PASSED INTO THE MAIN METHOD: **/
     Scanner reader = new Scanner(System.in);
     String input = reader.nextLine();
