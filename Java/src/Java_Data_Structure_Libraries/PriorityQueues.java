@@ -32,6 +32,8 @@ class PriorityQueues {
      */
 
     public static void main(String[] args) {
+        
+        /* Basic Test with strings */
         Queue<String> pq = new PriorityQueue<>();
 
         pq.offer("this");
@@ -41,10 +43,10 @@ class PriorityQueues {
         pq.offer("as");
         pq.offer("banana");
 
-
         while (!pq.isEmpty()) {
             System.out.println(pq.poll());
         }
+        // Prints: "
 
 
         /* You can pass in your own comparator */
