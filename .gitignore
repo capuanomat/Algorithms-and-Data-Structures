@@ -1,5 +1,3 @@
-Java/.idea
-
-Java/out
-Java/Java.iml
-./.idea
+*.idea
+*.iml
+*.DS_STORE
