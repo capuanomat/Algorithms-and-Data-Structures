@@ -1,4 +1,4 @@
-package Other_Practice;
+package OtherTopics;
 
 import java.security.InvalidParameterException;
 import java.util.Iterator;
