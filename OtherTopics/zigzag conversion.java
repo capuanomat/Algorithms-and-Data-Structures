@@ -5,10 +5,10 @@ class Solution {
     public String convert(String s, int numRows) {
         if (null == s)
             return null;
-        
+
         if (numRows == 1)
             return s;
-        
+
         /*
         OPTION 1: O(n|s|) space and time
         0. Create 2D string array to be populated by string:
@@ -18,8 +18,8 @@ class Solution {
         */
         /*
         char[][] arr = new char[numRows][s.length()]; // s.length() IS LONGER THAN NEEDED
-        
-        // Step 1: Populate 2D string 
+
+        // Step 1: Populate 2D string
         int ptr = 0;
         int i = 0; // 1 2 3 2t 1t 0
         int j = 0; // 0 0 0 1t 2t 3
@@ -44,9 +44,9 @@ class Solution {
             } else {
                 i++;
             }
-            
+
         }
-        
+
         String zigzag = "";
         for (i = 0; i < arr.length; i++) {
             for (j = 0; j < arr[0].length; j++) {
@@ -57,7 +57,7 @@ class Solution {
         }
         System.out.println(zigzag);
         */
-        
+
         /*
         OPTION 2: O(n) time, O(1) space
         - Find equation (function of size of zig-zag) to see if you can increment counter by same amount every time
@@ -65,22 +65,22 @@ class Solution {
         int row = 0;
         int col = 0;
         int ptr = 0;
-        
+
         int increment = (numRows) + (numRows - 2);
         
         String zigzag = "";
-        
+
         while (zigzag.length() != s.length) {
             zigzag = zigzag + s.charAt(ptr);
-            
+
             if ((ptr + increment) < s.length()) {
-                ptr += increment; 
+                ptr += increment;
             } else {
                 row++;
                 ptr = row;
                 increment -= 2;
             }
-        }  
+        }
 
         return zigzag;
     }

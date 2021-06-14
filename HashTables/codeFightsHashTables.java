@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Created by Matthieu J.B Capuano on 27/11/2017.
  */
-public class codeFightsHashTables {
+public class CodeFightsHashTables {
     /* =============================== HASH TABLES =============================== */
 
     /**
