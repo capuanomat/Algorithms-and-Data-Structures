@@ -1,4 +1,4 @@
-package CodeFightsInterview;
+package Graphs;
 
 public class codeFightsGraphs {
 

@@ -1,4 +1,4 @@
-package CodeFightsInterview;
+package Graphs;
 
 import java.util.*;
 

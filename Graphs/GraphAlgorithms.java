@@ -1,3 +1,5 @@
+package Graphs;
+
 /**
  * Created by Matthieu J.B Capuano on 11/27/2017.
  *
@@ -15,37 +17,37 @@ import java.util.HashSet;
 import java.util.Queue;
 import java.util.LinkedList;
 
-class GraphAlgorithms {
-    /*
-            DFS (Stack): ...
 
-            BFS (Queue): Fewest # of edges path from one vertex to another
-                         Also shortest path if all edges have same weight
+/**
+        DFS (Stack): ...
 
-            Uniform Cost Search (Priority Queue): Shortest path from one vertex to another
+        BFS (Queue): Fewest # of edges path from one vertex to another
+                     Also shortest path if all edges have same weight
 
-            Dijkstra's (Priority Queue): Shortest path from one vertex to every other vertex
+        Uniform Cost Search (Priority Queue): Shortest path from one vertex to another
 
-            Bellman-Ford (...): Shortest path from one vertex to ever other vertex
-                                           Works with negative edge weights
+        Dijkstra's (Priority Queue): Shortest path from one vertex to every other vertex
 
-            Floyd-Warshall (...): Shortest path between every pair of vertices
-                                  Works with negative edge weights
+        Bellman-Ford (...): Shortest path from one vertex to ever other vertex
+                                       Works with negative edge weights
 
-            A*: Uniform Cost Search with a heuristic
+        Floyd-Warshall (...): Shortest path between every pair of vertices
+                              Works with negative edge weights
 
-            Hybrid A*:
-            https://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html
+        A*: Uniform Cost Search with a heuristic
 
-            Theta*:
-            https://en.wikipedia.org/wiki/Theta*
+        Hybrid A*:
+        https://blog.habrador.com/2015/11/explaining-hybrid-star-pathfinding.html
 
-            Other Path Plannig:
-            https://www.sciencedirect.com/science/article/pii/S2214914718300333
-            https://www.cc.gatech.edu/~dellaert/pub/Ok13icra.pdf
-            http://www.cs.cmu.edu/~jgonzale/Thesis_Proposal/Thesis_proposal_v2.09.pdf
-     */
+        Theta*:
+        https://en.wikipedia.org/wiki/Theta*
 
+        Other Path Plannig:
+        https://www.sciencedirect.com/science/article/pii/S2214914718300333
+        https://www.cc.gatech.edu/~dellaert/pub/Ok13icra.pdf
+        http://www.cs.cmu.edu/~jgonzale/Thesis_Proposal/Thesis_proposal_v2.09.pdf
+ */
+public class GraphAlgorithms {
 
      public static void BFS(Graph graph) {
          System.out.println("= STARTING BFS =");
@@ -74,9 +76,6 @@ class GraphAlgorithms {
          }
      }
 
-
-
-
     public static void DFS(Graph graph) {
         System.out.println("= STARTING DFS =");
         Stack<GraphNode> discovered = new Stack<>();
@@ -103,10 +102,69 @@ class GraphAlgorithms {
         }
      }
 
+     /**
+      * Note: I never tested this, just wrote it.
+      */
+     public static Map<GraphNode, SearchState> Dijkstras(Graph graph) {
+         System.out.println("= STARTING Dijkstra's =");
+
+         Map<GraphNode, SearchState> result = new HashMap<>();
+         result.put(graph.root, new SearchState(graph.root, null, 0));
+
+         // Iterate through all the other nodes and assign a cost of infinity
+         for (GraphNode node : graph.allNodes.keySet()) {
+             shortestPathWeights.put(node, new SearchState(node, null, Integer.MAX_VALUE));
+         }
+
+         // Create min priority queue that orders with lowest costToCome on top
+         Set<GraphNode> expanded = new HashSet<>();
+         Queue<SearchState> pQueue = new PriorityQueue<SearchState>(
+         int capacity, new Comparator<SearchState>() {
+            public int compare(SearchState s1, SearchState s2) {
+                return s1.costToCome - s2.costTocome;
+            }
+         });
+
+         pQueue.offer(result.get(graph.root));
+         while (!pQueue.empty()) {  // Could do (expanded.size < graph.allNodes.keySet().size())?
+             SearchState currState = pQueue.poll();
+             GraphNode currNode = currState.node;
+             expanded.add(currNode);
+
+             int currCostToCome = currState.costToCome;
+
+            // Go through all the outgoing edges from this node
+            for (GraphEdge edge : graph.allNodes.get(currNode)) {
+                GraphNode destination = edge.dest;
+                if (!expanded.contains(destination)) {
+                    // If the cost to currNode and then to edge.destination is smaller
+                    // than the current shortest weight we have in result. replace it
+                    if (currCostToCome + edge.weight < result.get(destination).costToCome) {
+                        SearchState newState = new SearchState(destination, currNode, currCostToCome + edge.weight);
+                        result.put(destination, newState);
+                        pQueue.offer(newState);
+                    }
+                }
+            }
+         }
+     }
+
+     public static void backTrack(SearchState goalState) {
+         // Backtrack through parents of goalState until parent is null, which
+         // happens at the start node.
+     }
 
 
+     /** ========== HELPERS TO BUILD TEST GRAPHS ========== **/
 
-
+     /**
+      * First testing graph:
+      *         G       B
+      *         |       |
+      *         F - C - A - D - I
+      *         |       |     /
+      *         H       E - J
+      */
      private static Graph makeTestGraph1() {
          Graph graph = new Graph();
 
@@ -179,33 +237,22 @@ class GraphAlgorithms {
          return graph;
      }
 
-     public static void main(String[] args) {
-         System.out.println("===== Creating TestGraph1 =====");
-         Graph testGraph1 = makeTestGraph1();
 
-         System.out.println("=== Running BFS on TestGraph1 ===");
-         BFS(testGraph1);
+     /** ========== DEFINING THE GRAPH STRUCTURE ========== **/
+     public static class SearchState {
+         GraphNode node;
+         SearchState parent;
+         int costToCome;
 
-         System.out.println("=== Running DFS on TestGraph1 ===");
-         DFS(testGraph1);
-     }
-
-
-     static class SearchState {
-         GraphNode curr;
-         GraphNode parent;
+         public SearchState(GraphNode node, SearchState parent, GraphNode costToCome) {
+             this.node = node;
+             this.parent = parent;
+             this.costToCome = costToCome;
+         }
          // List<GraphNode> parents;
      }
 
-     static class GraphNode {
-         String id;
-
-         public GraphNode(String id) {
-             this.id = id;
-         }
-     }
-
-     static class Graph {
+     public static class Graph {
          GraphNode root;
 
          Map<GraphNode, Set<GraphEdge>> allNodes;
@@ -214,24 +261,33 @@ class GraphAlgorithms {
              this.allNodes = new HashMap<>();
          }
 
-         private GraphNode getRoot() {
-             return this.root;
-         }
-
          private void addNode(GraphNode node) {
              this.allNodes.put(node, new HashSet<GraphEdge>());
          }
      }
 
-     static class GraphEdge {
+     public static class GraphNode {
+         String id;
+
+         public GraphNode(String id) {
+             this.id = id;
+         }
+     }
+
+     public static class GraphEdge {
          GraphNode source;
          GraphNode dest;
-
          int weight;
 
          public GraphEdge(GraphNode source, GraphNode dest) {
              this.source = source;
              this.dest = dest;
+         }
+
+         public GraphEdge(GraphNode source, GraphNode dest, int weight) {
+             this.source = source;
+             this.dest = dest;
+             this.weight = weight;
          }
 
          private int getWeight() {
@@ -243,4 +299,19 @@ class GraphAlgorithms {
          }
      }
 
+
+     /** ========== MAIN METHOD ========== **/
+     public static void main(String[] args) {
+         System.out.println("===== Creating TestGraph1 =====");
+         Graph testGraph1 = makeTestGraph1();
+
+         System.out.println("=== Running BFS on TestGraph1 ===");
+         BFS(testGraph1);
+
+         System.out.println("=== Running DFS on TestGraph1 ===");
+         DFS(testGraph1);
+
+         System.out.println("=== Running Dijkstra's ===");
+         Graph testGraph1WithWeights = addWeightsToGraph1();
+     }
 }
